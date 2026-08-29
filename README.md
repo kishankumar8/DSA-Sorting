@@ -2,7 +2,7 @@
 
 All dsa sorting in one repository for  quick revision .
 
-Bilkul. Ab hum **interview-oriented Sorting** karte hain — sirf code nahi, balki **konsi sorting kab use hoti hai + example + interview questions**.
+Bil Ab hum **interview-oriented Sorting** karte hain — sirf code nahi, balki **konsi sorting kab use hoti hai + example + interview questions**.
 
 # 🔥 DSA Sorting — Interview ke liye Important
 
