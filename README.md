@@ -2,7 +2,7 @@
 
 All dsa sorting in one repository for  quick revision .
 
- **interview-oriented Sorting** karte hain — sirf code nahi, 
+ **interview-oriented Sorting
 
 # 🔥 DSA Sorting — Interview ke liye Important
 
