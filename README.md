@@ -3,7 +3,7 @@
 All dsa sorting in one repository for  quick revision .
 
 
-# 🔥 DSA Sorting — Interview 
+# 🔥 DSA Sorting ( Interview) 
 
 Sorting ko broadly 2 tarah se samjho:
 
