@@ -3,7 +3,7 @@
 All dsa sorting in one repository for  quick revision .
 
 
-# 🔥 DSA Sorting — Interview ke liye Important
+# 🔥 DSA Sorting — Interview ke liye Im
 
 Sorting ko broadly 2 tarah se samjho:
 
