@@ -605,4 +605,4 @@ STL sort()
 Sorting Problems 🔥
 ```
 
-**Sabse pehle Bubble Sort ko master karo.** Uske baad main tumhe **Bubble Sort ka C++ code line-be, dry run, time 
+**Sabse pehle Bubble Sort ko master karo.** Uske baad main tumhe **Bubble Sort ka C++ code line-be, dry run,
